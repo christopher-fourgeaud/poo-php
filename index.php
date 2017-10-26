@@ -21,4 +21,4 @@
 // $Thrall = new Personnage( "Frostwolf","Thrall","Chaman du cercle terrestre", "Orc");
 // $Thrall->affichageCompletDuPersonnage();
 
-echo "Bonjour je suis un garçon.";
+echo "Bonjour je suis un garçon plein d'ambitions.";
