@@ -18,5 +18,5 @@
 // $bagnole5->affichageTableauDeBord();
 include("class/Personnage.php");
 
-$hulk = new Personnage( "Frostwolf","Thrall","Chaman du cercle terrestre", "Orc");
+$Thrall = new Personnage( "Frostwolf","Thrall","Chaman du cercle terrestre", "Orc");
 $hulk->affichageCompletDuPersonnage();
