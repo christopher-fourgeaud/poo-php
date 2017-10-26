@@ -19,4 +19,4 @@
 include("class/Personnage.php");
 
 $Thrall = new Personnage( "Frostwolf","Thrall","Chaman du cercle terrestre", "Orc");
-$hulk->affichageCompletDuPersonnage();
+$Thrall->affichageCompletDuPersonnage();
