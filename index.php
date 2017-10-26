@@ -16,7 +16,9 @@
 
 // $bagnole5 = new Voiture(23);
 // $bagnole5->affichageTableauDeBord();
-include("class/Personnage.php");
+// include("class/Personnage.php");
 
-$Thrall = new Personnage( "Frostwolf","Thrall","Chaman du cercle terrestre", "Orc");
-$Thrall->affichageCompletDuPersonnage();
+// $Thrall = new Personnage( "Frostwolf","Thrall","Chaman du cercle terrestre", "Orc");
+// $Thrall->affichageCompletDuPersonnage();
+
+echo "Bonjour je suis un garçon.";
