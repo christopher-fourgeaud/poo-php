@@ -31,3 +31,27 @@ include ("class/Personnage.php");
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
 </html>
+// include("class/Voiture.php");
+
+// // instanciation de ma voiture
+// $bagnole = new Voiture(20);
+// $bagnole->affichageTableauDeBord();
+
+// $bagnole2 = new Voiture(9);
+// $bagnole2->affichageTableauDeBord();
+
+// $bagnole3 = new Voiture(12);
+// $bagnole3->affichageTableauDeBord();
+
+// $bagnole4 = new Voiture(14);
+// $bagnole4->affichageTableauDeBord();
+
+// $bagnole5 = new Voiture(23);
+// $bagnole5->affichageTableauDeBord();
+// include("class/Personnage.php");
+
+// $Thrall = new Personnage( "Frostwolf","Thrall","Chaman du cercle terrestre", "Orc");
+// $Thrall->affichageCompletDuPersonnage();
+
+echo "Bonjour je suis un garçon plein d'ambitions.";
+
